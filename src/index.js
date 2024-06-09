@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import Chat from './Chat';
-import reportWebVitals from './reportWebVitals';
 
 function Main() {
   const [showBot, setShowBot] = useState(false);
