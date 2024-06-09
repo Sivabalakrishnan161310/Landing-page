@@ -23,10 +23,10 @@ function App() {
                   "Organization isn't about perfection; it's about efficiency, reducing stress and clutter, saving time and money and improving your overall quality of life." 
                 </p>
                 <div className="social">
-                  <a href=""><i className="bi bi-twitter"></i></a>
-                  <a href=""><i className="bi bi-facebook"></i></a>
-                  <a href=""><i className="bi bi-instagram"></i></a>
-                  <a href=""><i className="bi bi-linkedin"></i></a>
+                  <a href="#"><i className="bi bi-twitter"></i></a>
+                  <a href="#"><i className="bi bi-facebook"></i></a>
+                  <a href="#"><i className="bi bi-instagram"></i></a>
+                  <a href="#"><i className="bi bi-linkedin"></i></a>
                 </div>
               </div>
             </div>
@@ -40,10 +40,10 @@ function App() {
                   "Organizing is what you do before you do something, so that when you do it, it is not all mixed up." 
                 </p>
                 <div className="social">
-                  <a href=""><i className="bi bi-twitter"></i></a>
-                  <a href=""><i className="bi bi-facebook"></i></a>
-                  <a href=""><i className="bi bi-instagram"></i></a>
-                  <a href=""><i className="bi bi-linkedin"></i></a>
+                  <a href="#"><i className="bi bi-twitter"></i></a>
+                  <a href="#"><i className="bi bi-facebook"></i></a>
+                  <a href="#"><i className="bi bi-instagram"></i></a>
+                  <a href="#"><i className="bi bi-linkedin"></i></a>
                 </div>
               </div>
             </div>
@@ -57,10 +57,10 @@ function App() {
                   "Organizing my life has been key to my success. Whether it's my schedule, my business, or my home, I know that when everything is in order, I can focus on what's truly important: my goals."
                 </p>
                 <div className="social">
-                  <a href=""><i className="bi bi-twitter"></i></a>
-                  <a href=""><i className="bi bi-facebook"></i></a>
-                  <a href=""><i className="bi bi-instagram"></i></a>
-                  <a href=""><i className="bi bi-linkedin"></i></a>
+                  <a href="#"><i className="bi bi-twitter"></i></a>
+                  <a href="#"><i className="bi bi-facebook"></i></a>
+                  <a href="#"><i className="bi bi-instagram"></i></a>
+                  <a href="#"><i className="bi bi-linkedin"></i></a>
                 </div>
               </div>
             </div>
